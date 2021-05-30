@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zrwaite
+- 👀 I’m interested in ... Web Development, coding in general, especially Javascript and PHP. 
+- 🌱 I’m currently learning ... JQuery, AJAX, APIs, HttpRequests
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... zrwaite@gmail.com for important emails, superzrw@gmail.com for other emails.
