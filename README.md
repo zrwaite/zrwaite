@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zrwaite
-- 👀 I’m interested in ... Web Development, coding in general, especially Javascript and PHP. 
-- 🌱 I’m currently learning ... JQuery, AJAX, APIs, HttpRequests
-- 💞️ I’m looking to collaborate on ... anything
+- 👋 Hi, I’m @zrwaite, Zac Waite
+- 👀 I’m interested in ... Web Development, coding in general, especially Javascript. 
+- 🌱 I’m currently learning ... MERN, Docker, Self-Hosting, MongoDB Atlas
+- 💞️ I’m looking to collaborate on ... a project I am working on for comparing how busy stores are
 - 📫 How to reach me ... zrwaite@gmail.com for important emails, superzrw@gmail.com for other emails.
