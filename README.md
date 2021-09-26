@@ -1,3 +1,5 @@
+<img src="./header.svg">
+
 # 👋 Hi, I’m Zac Waite (@zrwaite)
 
 *Software Engineering student at the University of Waterloo. Coder/web developer, VEX Worlds participant, Orillia Citizen of the Year Nominee.*
