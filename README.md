@@ -5,13 +5,16 @@
 *Software Engineering student at the University of Waterloo. Coder/web developer, VEX Worlds participant, Orillia Citizen of the Year Nominee.*
 
 ---
-
-### 👀 I am interested in web development, my forté being in javascript. 
-* I have skills in node with express, docker, self and cloud hosting, and system architecture. 
-* I also have good experience with PHP, Python, and C++ 
-* Some experience with Java, C# and C.
-
----
+### 👀 I am interested in web development, my forté being in javascript.  
+<div>
+    <img style="float: left; margin: 5px 25px 5px 5px" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&exclude_repo=Spaceship8&layout=compact&langs_count=6" alt="My Top Languages"/>
+    <ul>
+        <li>I also have good experience with PHP, Python, and C++</li>
+        <li>Some experience with Java, C# and C.</li>
+        <li>I have skills in node/express, docker, hosting, and system architecture.</li>
+    </ul>
+</div>
+<hr style="clear:left"/>
 
 ### I have participated in several coding competitions, such as the CCC, game jams, and hackathons. 
 * 1st Place Covid Prize 🥇 - Def Hacks Worldwide 3.0: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
@@ -34,3 +37,15 @@ How to learn more ...
 * [Devpost](https://devpost.com/zrwaite)
 * [LinkedIn](https://www.linkedin.com/in/zac-waite/)
 <!-- Personal Website -->
+
+<!--
+<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=CartTech" alt="CartTech Repo"/>
+
+<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=DreemTeem" alt="DreemTeem Repo"/>
+
+<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=12421X" alt="12421X Repo"/>
+
+<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=SantasPillage" alt="SantasPillage Repo"/>
+
+<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=DefHacks3" alt="DefHacks3 Repo"/>
+-->
