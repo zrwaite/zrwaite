@@ -7,7 +7,7 @@
 ---
 ### 👀 I am interested in web development, my forté being in javascript.  
 <div>
-    <img style="float: left; margin: 5px 25px 5px 5px" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&exclude_repo=Spaceship8&layout=compact&langs_count=6" alt="My Top Languages"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&exclude_repo=Spaceship8&layout=compact&langs_count=6&theme=dark" alt="My Top Languages"/>
     <ul>
         <li>I also have good experience with PHP, Python, and C++</li>
         <li>Some experience with Java, C# and C.</li>
