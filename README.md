@@ -22,18 +22,36 @@
 
 ---
 
-🌱 I’m currently learning ... React, MongoDB Atlas, C, C#, DevOps, Machine Learning
+## 🌱 I’m currently learning ... 
+* React
+* MongoDB Atlas
+* C
+* C#
+* DevOps 
+* Machine Learning
 
-I’m looking to collaborate on ... machine learning projects
-
-📫 How to reach me ... 
-* [Email](mailto:129032699zw@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/zac-waite/)
+##  How to reach me/find out more ...
+<table width="100%">
+    <tr>
+        <td>
+            <a href="mailto:129032699zw@gmail.com">
+                <img src="mailicon.png" height="30px"> Email
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/zac-waite/">
+                <img src="linkedinicon.png" height="30px"> LinkedIn
+            </a>
+        </td>
+        <td>
+            <a href="https://devpost.com/zrwaite">
+                <img src="devposticon.png" height="30px"> Devpost
+            </a>
+        </td>
+    </tr>
+</table>
 <!--Contact form-->
 
-How to learn more ...
-* [Devpost](https://devpost.com/zrwaite)
-* [LinkedIn](https://www.linkedin.com/in/zac-waite/)
 <!-- Personal Website -->
 
 <!--
