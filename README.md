@@ -3,7 +3,7 @@
 # <img height="25vw" src="./wave.gif"> Hi, I’m Zac Waite (@zrwaite)
 
 *Software Engineering student at the University of Waterloo. Coder/web developer, VEX Worlds participant, Orillia Citizen of the Year Nominee.*
-
+ 
 ---
 ### 👀 I am interested in web development, my forté being in javascript and typescript.
 * I also have good experience with PHP, Python, and C++
