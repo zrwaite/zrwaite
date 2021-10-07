@@ -10,7 +10,7 @@
 * Some experience with Java, C# and C.
 * I have skills in Node/Express, Docker, MongoDB, Hosting, and system architecture.
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css&exclude_repo=Spaceship8&layout=compact&langs_count=6&theme=dark)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css&exclude_repo=Spaceship8,SpaceshipTemplate&layout=compact&langs_count=6&theme=dark)
 
 ![Words](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=success)![Words](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=success)![Words](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=success)![Words](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=success)![Words](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=success)![Words](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success)![Words](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=success)![Words](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=success)![Words](https://img.shields.io/badge/Cloud-Digital%20Ocean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=success)![Words](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=success)
 
