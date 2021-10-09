@@ -7,7 +7,7 @@
 ---
 ### 👀 I am interested in web development, my forté being in javascript and typescript.
 * I also have good experience with PHP, Python, and C++
-* Some experience with Java, C# and C.
+* Some experience with Java, and C.
 * I have skills in Node/Express, Docker, MongoDB, Hosting, and system architecture.
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css&exclude_repo=Spaceship8,SpaceshipTemplate&layout=compact&langs_count=6&theme=dark)
