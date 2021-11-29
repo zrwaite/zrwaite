@@ -12,9 +12,9 @@
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css,html,makefile&exclude_repo=Spaceship8,github-slideshow,SpaceshipTemplate&layout=compact&langs_count=6&theme=dark)
 
-<p align="left">
-Languages, Tools, and Technologies
 
+## Languages, Tools, and Technologies
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
@@ -41,19 +41,23 @@ Languages, Tools, and Technologies
 ---
 
 ## 🌱 I’m currently learning ... 
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" /> C
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="25" height="25" /> Rust
-
-- Devops
-
-- Machine Learning
-</p>
-
+<table width="100%">
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React
+        </td>
+        <td>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" /> C
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="25" height="25" /> Rust
+        </td>
+    </tr>
+    <tr>
+        <td>Devops</td>
+        <td>Machine Learning</td>
+    </tr>
+</table>
 
 ##  How to reach me/find out more ...
 <table width="100%">
