@@ -12,8 +12,24 @@
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css,html,makefile&exclude_repo=Spaceship8,github-slideshow,SpaceshipTemplate&layout=compact&langs_count=6&theme=dark)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=success)![TypeScript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=success)![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=success)![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=success)![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=success)![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success)![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=success)![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=success)![DigitalOcean](https://img.shields.io/badge/Cloud-Digital%20Ocean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=success)![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=success)
+<p align="left">
+Languages, Tools, and Technologies
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
+</p>
 ---
 
 ### I have participated in several coding competitions, such as the CCC, game jams, and hackathons. 
@@ -25,7 +41,19 @@
 ---
 
 ## 🌱 I’m currently learning ... 
-![Words](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)![Words](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=blue)![Words](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=blue)![Words](https://img.shields.io/badge/Skills-DevOps-informational?style=flat&logo=&logoColor=white&color=blue)![Words](https://img.shields.io/badge/Skills-Machine%20Learning-informational?style=flat&logo=&logoColor=white&color=blue)
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" /> C
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="25" height="25" /> Rust
+
+- Devops
+
+- Machine Learning
+</p>
+
 
 ##  How to reach me/find out more ...
 <table width="100%">
