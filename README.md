@@ -47,6 +47,8 @@
         </td>
     </tr>
 </table>
+
+<img src="http://zacwaite.xyz:8001/test.png" />
 <!--Contact form-->
 
 <!-- Personal Website -->
