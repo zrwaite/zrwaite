@@ -31,8 +31,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
 </p>
+
 ---
 
 ### I have participated in several coding competitions, such as the CCC, game jams, and hackathons. 
