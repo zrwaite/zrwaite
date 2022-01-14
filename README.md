@@ -10,12 +10,12 @@
 * Some experience with Java and C.
 * I have skills in Node/Express, Docker, MongoDB, Hosting, and system architecture.
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css,html,makefile&layout=compact&langs_count=6&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=8&theme=dark" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ## Total time coded since October 12, 2021
 ![wakatime](https://wakatime.com/badge/user/6c7c91d4-47e9-422d-a269-f30643615ab6.svg)
-<img src="http://zacwaite.xyz:8001/pigraph.png" />
+<img width="80%" src="http://zacwaite.xyz:8001/pigraph.png" />
 
 
 ## Languages, Tools, and Technologies
