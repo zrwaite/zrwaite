@@ -11,13 +11,14 @@
 * I have skills in Node/Express, Docker, MongoDB, Hosting, and system architecture.
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=css,html,makefile&layout=compact&langs_count=6&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ## Total time coded since October 12, 2021
 ![wakatime](https://wakatime.com/badge/user/6c7c91d4-47e9-422d-a269-f30643615ab6.svg)
+<img src="http://zacwaite.xyz:8001/pigraph.png" />
 
 
 ## Languages, Tools, and Technologies
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
@@ -27,13 +28,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="digitalocean" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" />
 </p>
 
 ---
@@ -46,24 +52,7 @@
 
 ---
 
-## 🌱 I’m currently learning ... 
-<table width="100%">
-    <tr>
-        <td>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React
-        </td>
-        <td>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" /> C
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="25" height="25" /> Rust
-        </td>
-    </tr>
-    <tr>
-        <td>Devops</td>
-        <td>Machine Learning</td>
-    </tr>
-</table>
+🌱 I’m currently learning Rust
 
 ##  How to reach me/find out more ...
 <table width="100%">
@@ -86,9 +75,9 @@
     </tr>
 </table>
 
-<img src="http://zacwaite.xyz:8001/pigraph.png" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+
 <!--Contact form-->
 
 <!-- Personal Website -->
