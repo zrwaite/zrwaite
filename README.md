@@ -12,7 +12,7 @@
 
 ## Total time coded since October 12, 2021
 ![wakatime](https://wakatime.com/badge/user/6c7c91d4-47e9-422d-a269-f30643615ab6.svg)
-<img width="75%" src="http://zacwaite.xyz/graphs?filename=pigraph.png" />
+<img width="75%" src="https://zacwaite.xyz/graphs?filename=pigraph.png" />
 
 
 # Languages, Tools, and Technologies
@@ -57,25 +57,15 @@
 ---
 
 ##  How to reach me/find out more ...
-<table width="100%">
-    <tr>
-        <td>
-            <a href="mailto:129032699zw@gmail.com">
-                <h1>Email <img src="mailicon.png" height="30px"></h1>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.linkedin.com/in/zac-waite/">
-                <h1>LinkedIn <img src="linkedinicon.png" height="30px"></h1>
-            </a>
-        </td>
-        <td>
-            <a href="https://devpost.com/zrwaite">
-                <h1>Devpost <img src="devposticon.png" height="30px"></h1>
-            </a>
-        </td>
-    </tr>
-</table>
+<a href="mailto:129032699zw@gmail.com">
+    <h1>Email <img src="mailicon.png" height="30px"></h1>
+</a>
+<a href="https://www.linkedin.com/in/zac-waite/">
+    <h1>LinkedIn <img src="linkedinicon.png" height="30px"></h1>
+</a>
+<a href="https://devpost.com/zrwaite">
+    <h1>Devpost <img src="devposticon.png" height="30px"></h1>
+</a>
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
 
