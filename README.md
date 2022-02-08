@@ -57,14 +57,13 @@
 ---
 
 ##  How to reach me/find out more ...
-<p>
+
 [Email](mailto:129032699zw@gmail.com)
 <img src="mailicon.png" height="30px">
 [LinkedIn](https://www.linkedin.com/in/zac-waite/)
 <img src="linkedinicon.png" height="30px">
 [Devpost](https://devpost.com/zrwaite)
 <img src="devposticon.png" height="30px">
-</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
 
