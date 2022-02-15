@@ -7,7 +7,7 @@
 ---
 ## I am a full stack web developer with a forté in TypeScript and Javascript, with NodeJs/Express. I also have good experience in PHP, Python and C++, and some experience with Java and C
 
-<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=8&theme=dark" />
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=10&theme=dark" />
 <img width="75%" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ## Total time coded since October 12, 2021
