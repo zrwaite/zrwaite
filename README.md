@@ -25,6 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50rem" height="50rem" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50rem" height="50rem" />
@@ -38,9 +39,10 @@
 
 # 📊 Programming Stats
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=10&theme=dark" />
-<img width="400" src="https://zacwaite.xyz/graphs?filename=pigraph.png" />
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=10&theme=dark" />
+<img width="390" src="https://zacwaite.xyz/graphs?filename=pigraph.png" />
+<img width="390" src="https://github-profile-trophy.vercel.app/?username=zrwaite&row=2&column=3&theme=darkhub&title=Followers,Repositories,Stars,PullRequest,Commit,MultiLanguage" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ---
 
