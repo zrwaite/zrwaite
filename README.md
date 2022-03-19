@@ -1,13 +1,11 @@
-<img src="./header.svg" width="80%">
+<img src="./GithubHeader.svg" width="100%"> 
 
  
 ---
 ## SE student @ UWaterloo; VEX Worlds participant; Orillia Citizen of the Year Nominee; 
 ## <p> I'm a full stack web developer with a forté in TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20rem" height="20rem" /> and Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20rem" height="20rem" />, with React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20rem" height="20rem" /> and NodeJs/Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20rem" height="20rem" />. I also have good experience in PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20rem" height="20rem" />, Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20rem" height="20rem" /> and C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20rem" height="20rem" />, and some experience with Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20rem" height="20rem" />, Rust <img src="./rust-plain.svg" alt="rust" width="20rem" height="20rem" /> and C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20rem" height="20rem" /> </p>
 
-
-
-<br/>
+---
 
 # 💻 Languages, Tools, and Technologies ⚙️
 <p align="left">
@@ -30,12 +28,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50rem" height="50rem" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="digitalocean" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="50rem" height="50rem" />
 </p>
 
-<br/>
+---
 
 # 📊 Programming Stats
 
