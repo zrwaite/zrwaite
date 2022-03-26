@@ -52,12 +52,12 @@
 * ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
 * ## 3rd Place 🥉 - Skills Ontario Web Design and Development 2021
 * ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
+* ## TBD - Defi The Conventional "[TBD]()"
 
 ---
 
 # 📪 How to reach me/find out more ...
 
-* ## [📧 Email](mailto:129032699zw@gmail.com)
 * ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
 * ## [⌨️ Devpost](https://devpost.com/zrwaite)
 
