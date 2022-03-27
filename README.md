@@ -52,7 +52,6 @@
 * ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
 * ## 3rd Place 🥉 - Skills Ontario Web Design and Development 2021
 * ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
-* ## TBD - Defi The Conventional "[TBD]()"
 
 ---
 
