@@ -8,7 +8,7 @@
 ---
 
 # 💻 Languages, Tools, and Technologies ⚙️
-<p align="left">
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50rem" height="50rem" />
@@ -32,18 +32,20 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="50rem" height="50rem" />
-</p>
+</div>
 
 ---
 
 # 📊 Programming Stats
 
-<p align="left">
+<div align="center">
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=10&theme=dark" />
 <img width="390" src="https://zacwaite.xyz/graphs?filename=pigraph.png" />
 <img width="390" src="https://github-profile-trophy.vercel.app/?username=zrwaite&row=2&column=3&theme=darkhub&title=Followers,Repositories,Stars,PullRequest,Commit,MultiLanguage" />
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</p>
+<img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark' alt='Github stats' align='center' />
+<img width="390" src='https://github-readme-stats.vercel.app/api/wakatime?username=insomnizac&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml' alt='Languages over last 7 days ' align='center' />
+</div>
 
 ---
 
