@@ -63,20 +63,3 @@
 * ## [⌨️ Devpost](https://devpost.com/zrwaite)
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
-
-
-<!--Contact form-->
-
-<!-- Personal Website -->
-
-<!--
-<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=CartTech" alt="CartTech Repo"/>
-
-<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=DreemTeem" alt="DreemTeem Repo"/>
-
-<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=12421X" alt="12421X Repo"/>
-
-<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=SantasPillage" alt="SantasPillage Repo"/>
-
-<img float="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zrwaite&repo=DefHacks3" alt="DefHacks3 Repo"/>
--->
