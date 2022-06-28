@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="java" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50rem" height="50rem" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50rem" height="50rem" />
@@ -54,6 +55,7 @@
 # 🏆 Coding Competitions:
 * ## 1st Place Covid Prize 🥇 - Def Hacks Worldwide 3.0: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
 * ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
+* ## DigitalOcean Prize 🥇 - FreyHacks: "[SumFun](https://devpost.com/software/sumfun)"
 * ## 3rd Place 🥉 - Skills Ontario Web Design and Development 2021
 * ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
 
