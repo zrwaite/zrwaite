@@ -1,13 +1,15 @@
-<img src="./GithubHeader.png" width="100%"> 
+<img src="./GithubHeader.png" width="400px" align="left">
 
- 
----
-## SE student @ UWaterloo; VEX Worlds participant; Orillia Citizen of the Year Nominee; 
+## SE student @ UWaterloo; VEX Worlds participant; Orillia Citizen of the Year Nominee;
+
 ## <p> I'm a full stack developer with a forté in TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20rem" height="20rem" /> and Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20rem" height="20rem" />, with React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20rem" height="20rem" /> and NodeJs/Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20rem" height="20rem" />. I also have good experience in PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20rem" height="20rem" />, Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20rem" height="20rem" /> and C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20rem" height="20rem" />, and some experience with Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20rem" height="20rem" />, Swift <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="c" width="20rem" height="20rem" />, Rust <img src="./rust-plain.svg" alt="rust" width="20rem" height="20rem" />, Go <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20rem" height="20rem" /> and C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20rem" height="20rem" /> </p>
 
 ---
 
+---
+
 # 💻 Languages, Tools, and Technologies ⚙️
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50rem" height="50rem" />
@@ -53,17 +55,18 @@
 ---
 
 # 🏆 Coding Competitions:
-* ## 1st Place Covid Prize 🥇 - Def Hacks Worldwide 3.0: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
-* ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
-* ## DigitalOcean Prize 🥇 - FreyHacks: "[SumFun](https://devpost.com/software/sumfun)"
-* ## 3rd Place 🥉 - Skills Ontario Web Design and Development 2021
-* ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
+
+-   ## 1st Place Covid Prize 🥇 - Def Hacks Worldwide 3.0: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
+-   ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
+-   ## DigitalOcean Prize 🥇 - FreyHacks: "[SumFun](https://devpost.com/software/sumfun)"
+-   ## 3rd Place 🥉 - Skills Ontario Web Design and Development 2021
+-   ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
 
 ---
 
 # 📪 How to reach me/find out more ...
 
-* ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
-* ## [⌨️ Devpost](https://devpost.com/zrwaite)
+-   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
+-   ## [⌨️ Devpost](https://devpost.com/zrwaite)
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
