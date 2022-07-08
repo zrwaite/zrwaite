@@ -40,7 +40,7 @@
 # 📊 Programming Stats
 
 <div align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile&layout=compact&langs_count=10&theme=dark" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell&layout=compact&langs_count=10&theme=dark" />
 <img width="390" src="https://zacwaite.xyz/graphs?filename=pigraph.png" />
 <!-- <img width="390" src="https://github-profile-trophy.vercel.app/?username=zrwaite&row=2&column=3&theme=darkhub&title=Followers,Repositories,Stars,PullRequest,Commit,MultiLanguage" /> -->
 <img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark' alt='Github stats' />
