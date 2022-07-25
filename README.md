@@ -52,7 +52,7 @@
 
 # 🏆 Coding Competitions:
 
--   ## 1st Place Covid Prize 🥇 - Def Hacks Worldwide 3.0: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
+-   ## 1st Place Covid Prize 🥇 - Def Hacks: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
 -   ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
 -   ## DigitalOcean Prize 🥇 - FreyHacks: "[SumFun](https://devpost.com/software/sumfun)"
 -   ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
