@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50rem" height="50rem" />
-<img src="./rust-plain.svg" alt="rust" width="50rem" height="50rem" />
+<img src="./ferris.png" alt="rust" width="50rem" height="45rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="java" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50rem" height="50rem" />
