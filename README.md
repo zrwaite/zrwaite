@@ -46,7 +46,7 @@
 
 <div align="center">
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark" />
-<img width="390" src="https://graphs.insomnizac.xyz/api/wakatime/pi?thisistomaketheimagestopcaching=test" />
+<img width="390" src="https://graphs.insomnizac.xyz/api/wakatime/pi" />
 <img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark' alt='Github stats' />
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <img width="390" src='https://github-readme-stats.vercel.app/api/wakatime?username=insomnizac&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml' alt='Languages over last 7 days '/>
