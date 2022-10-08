@@ -54,6 +54,15 @@
 
 ---
 
+
+# 📪 How to reach me/find out more ...
+
+-   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
+-   ## [⌨️ Devpost](https://devpost.com/zrwaite)
+-   ## [⌨️ Website](https://insomnizac.xyz)
+
+---
+
 # 🏆 Coding Competitions:
 
 -   ## 1st Place Covid Prize 🥇 - Def Hacks: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
@@ -62,10 +71,5 @@
 -   ## Participant 🏅 - Hack The North 2021: "[CartTech](https://devpost.com/software/carttech)"
 
 ---
-
-# 📪 How to reach me/find out more ...
-
--   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
--   ## [⌨️ Devpost](https://devpost.com/zrwaite)
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
