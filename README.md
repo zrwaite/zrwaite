@@ -50,7 +50,9 @@
 # 📊 Programming Stats
 
 <div align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark">
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark" />
+</a>
 <a href="https://graphs.insomnizac.xyz">
 <img width="390" src="https://graphs.insomnizac.xyz/api/wakatime/Insomnizac" />
 </a>
