@@ -3,11 +3,9 @@
 <img src="./GithubHeader.png" width="500px">
 </a>
 
-## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Software Engineering at UWaterloo
+## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Software Engineering @ UWaterloo
 
-## 💻 Full Stack Web Developer
-
-## ⚙️ Robotics Programmer
+## 💻 Full Stack Web Developer and Robotics Programmer ⚙️
 
 </div>
 
