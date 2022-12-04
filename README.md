@@ -67,9 +67,6 @@
 
 ---
 
-
-# 📪 How to reach me/find out more ...
-
 -   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
 -   ## [⌨️ Devpost](https://devpost.com/zrwaite)
 -   ## [🌐 Website](https://insomnizac.xyz)
