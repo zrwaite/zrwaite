@@ -7,6 +7,8 @@
 
 ## 💻 Full Stack Web Developer and Robotics Programmer ⚙️
 
+### ⭐ Open to web and app development contract opportunities ⭐
+
 </div>
 
 ---
@@ -70,6 +72,7 @@
 -   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
 -   ## [⌨️ Devpost](https://devpost.com/zrwaite)
 -   ## [🌐 Website](https://insomnizac.xyz)
+-   ## [📄 Resume](https://insomnizac.xyz/resume)
 
 ---
 
