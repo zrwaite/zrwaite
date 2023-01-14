@@ -40,6 +40,7 @@
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="50rem" height="45rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50rem" height="50rem" />
+<img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" alt="ros" width="50rem" height="50rem" />
 
 
 </div>
