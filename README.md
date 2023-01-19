@@ -7,7 +7,7 @@
 
 ## 💻 Full Stack Web and Robotics Programmer ⚙️
 
-### ⭐ Open to web and app development contract opportunities ⭐
+### ⭐ ***Open to web and app development contract opportunities*** ⭐
 
 </div>
 
