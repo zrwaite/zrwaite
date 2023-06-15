@@ -72,16 +72,8 @@
 
 -   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
 -   ## [⌨️ Devpost](https://devpost.com/zrwaite)
--   ## [🌐 Website](https://insomnizac.xyz)
--   ## [📄 Resume](https://insomnizac.xyz/resume)
-
----
-
-# 🏆 Coding Competitions:
-
--   ## 1st Place Covid Prize 🥇 - Def Hacks: "[Capacity Controller](https://devpost.com/software/capacity-controller)"
--   ## 1st Place 🥇 - ULHacks: "[Followthru](https://devpost.com/software/followthru-0cr35p)"
--   ## DigitalOcean Prize 🥇 - FreyHacks: "[SumFun](https://devpost.com/software/sumfun)"
+-   ## [🌐 Website](https://insomnizac.com)
+-   ## [📄 Resume](https://insomnizac.com/resume)
 
 ---
 
