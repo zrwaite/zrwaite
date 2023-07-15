@@ -27,11 +27,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50rem" height="50rem" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50rem" height="50rem" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50rem" height="50rem" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50rem" height="50rem" />
@@ -67,14 +66,5 @@
 <img width="390" src='https://github-readme-stats.vercel.app/api/wakatime?username=insomnizac&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml' alt='Languages over last 7 days '/>
 </a>
 </div>
-
----
-
--   ## [🟦 LinkedIn](https://www.linkedin.com/in/zac-waite/)
--   ## [⌨️ Devpost](https://devpost.com/zrwaite)
--   ## [🌐 Website](https://insomnizac.com)
--   ## [📄 Resume](https://insomnizac.com/resume)
-
----
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
