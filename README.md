@@ -1,5 +1,5 @@
 <div align='center'>
-<a href="https://insomnizac.xyz">
+<a href="https://insomnizac.com">
 <img src="./GithubHeader.png" width="500px">
 </a>
 
@@ -9,10 +9,6 @@
 
 ### Full Stack Development Lead @ SWRIL
 <img align="center" src="./swr-logo.jpg" width="40%" alt="SWR" />
-
-### Founder & President @ Nitron
-
-<img align="center" src="./nitron-name-logo.png" width="40%" alt="nitron" />
 
 ### Former SWE @ Uvaro, Impossible Metals
 <div align="center">
@@ -59,8 +55,8 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark">
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark" />
 </a>
-<a href="https://graphs.insomnizac.xyz">
-<img width="390" src="https://graphs.insomnizac.xyz/api/wakatime/Insomnizac" />
+<a href="https://graphs.insomnizac.com">
+<img width="390" src="https://graphs.insomnizac.com/api/wakatime/Insomnizac" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark">
 <img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark' alt='Github stats' />
