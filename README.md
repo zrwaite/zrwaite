@@ -56,7 +56,7 @@
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark" />
 </a>
 <a href="https://graphs.insomnizac.com">
-<img width="390" src="https://graphs.insomnizac.com/api/wakatime/Insomnizac" />
+<img width="390" src="https://graphs.insomnizac.com/api/wakatime/Insomnizac?ignore=urdf,restructuredtext,tsconfig" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark">
 <img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark' alt='Github stats' />
