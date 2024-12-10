@@ -2,15 +2,21 @@
 
 ## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Software Engineering @ UWaterloo
 
-## 💻 Full Stack Web and Robotics Programmer ⚙️
+## 💻 Full Stack Web, AI and Robotics Programmer ⚙️
 
-### Full Stack Development Lead @ SWRIL
-<img align="center" src="./swr-logo.jpg" width="40%" alt="SWR" />
+### AI Services Full Stack Engineer @ SWRIL
+<div align="center">
+<img src="./unops-logo.png" width="50%" alt="uvaro" />
+</div>
 
-### Former SWE @ Uvaro, Impossible Metals
+
+### Former SWE @ Uvaro, Impossible Metals, Enzuzo, Roo.vet, SWRIL
 <div align="center">
 <img src="./uvaro-logo.png" width="40%" alt="uvaro" />
 <img src="./impossible-logo.png" width="40%" alt="Impossible Metals" />
+<img align="center" src="./enzuzo-logo.png" width="40%" alt="Enzuzo" />
+<img align="center" src="./roo-logo.png" width="40%" alt="Roo.vet" />
+<img align="center" src="./swr-logo.jpg" width="40%" alt="SWR" />
 </div>
 
 
@@ -20,8 +26,8 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50rem" height="50rem" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50rem" height="50rem" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50rem" height="50rem" />
 <img src="./ferris.png" alt="rust" width="50rem" height="45rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50rem" height="50rem" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50rem" height="50rem" />
