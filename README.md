@@ -1,7 +1,4 @@
 <div align='center'>
-<a href="https://insomnizac.com">
-<img src="./GithubHeader.png" width="500px">
-</a>
 
 ## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Software Engineering @ UWaterloo
 
