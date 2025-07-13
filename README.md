@@ -4,7 +4,7 @@
 
 ## 💻 Full Stack Web, AI and Robotics Programmer ⚙️
 
-### AI Services Full Stack Engineer @ UNOPS
+### AI Services Full Stack Engineer @ United Nations OPS
 <div align="center">
 <img src="./unops-logo.png" width="50%" alt="uvaro" />
 </div>
