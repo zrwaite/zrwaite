@@ -2,7 +2,7 @@
 
 ## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Software Engineering @ UWaterloo
 
-## 💻 Full Stack Web, AI and Robotics Programmer ⚙️
+## 💻 Cloud/Web Software, Firmware, Control Systems Engineer ⚙️
 
 ### AI Services Full Stack Engineer @ United Nations OPS
 <div align="center">
@@ -48,27 +48,5 @@
 
 </div>
 
-
----
-
-# 📊 Programming Stats
-
-<div align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark">
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrwaite&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark" />
-</a>
-<a href="https://graphs.insomnizac.com">
-<img width="390" src="https://graphs.insomnizac.com/api/wakatime/Insomnizac?ignore=urdf,restructuredtext,tsconfig" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark">
-<img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=zrwaite&theme=dark' alt='Github stats' />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=zrwaite&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=insomnizac&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml">
-<img width="390" src='https://github-readme-stats.vercel.app/api/wakatime?username=insomnizac&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml' alt='Languages over last 7 days '/>
-</a>
-</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=68486874)
