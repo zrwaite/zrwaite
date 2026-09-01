@@ -1,10 +1,10 @@
 <div align='center'>
 
-## 💻 Software/Firmware Engineer ⚙️
+## 💻 Software/Firmware Engineer @ [Base Power](https://www.basepowercompany.com/)⚙️
 
-## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Software Engineering @ UWaterloo
+## <img src="./UW.png" alt="UW" width="20rem" height="20rem" /> Bachelor of Software Engineering from University of Waterloo
 
-### Former SWE @ Uvaro, Impossible Metals, Enzuzo, Roo.vet, SWRIL, UNOPS, Base Power Company
+### Former SWE @ Uvaro, Impossible Metals, Enzuzo, Roo.vet, SWRIL, UNOPS
 <div align="center">
 <img src="./uvaro-logo.png" width="40%" alt="uvaro" />
 <img src="./impossible-logo.png" width="40%" alt="Impossible Metals" />
