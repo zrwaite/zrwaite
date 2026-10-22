@@ -1,6 +1,6 @@
 <div align='center'>
 
-## 💻 Software/Firmware Engineer @ [Base Power](https://www.basepowercompany.com/)⚙️
+## 💻 Software/Firmware Engineer @ [Base Power](https://www.basepowercompany.com/)🔋
 
 <img align="center" src="./base-logo.png" width="40%" alt="Base" />
 
